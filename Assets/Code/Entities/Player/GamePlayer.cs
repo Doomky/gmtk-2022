@@ -1,7 +1,8 @@
+using UnityEngine;
+
 namespace Code.Entities.Player
 {
-    public class GamePlayer
+    public class GamePlayer : MonoBehaviour
     {
-        
     }
 }
