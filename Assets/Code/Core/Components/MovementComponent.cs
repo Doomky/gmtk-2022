@@ -1,9 +1,13 @@
+using System;
+using Unity.Collections.LowLevel.Unsafe;
 using UnityEngine;
 
 namespace Code.Core.Components
 {
     public class MovementComponent : MonoBehaviour
     {
-        //hello, world    
+        public Vector2 Target;
+        
+        
     }
 }

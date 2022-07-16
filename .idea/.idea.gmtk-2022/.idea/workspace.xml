@@ -21,6 +21,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "XThreadsFramesViewSplitterKey": "0.24545455",
     "rider.run.widget.enabled.cache": "false",
     "settings.editor.selected.configurable": "preferences.build.unityPlugin",
     "vue.rearranger.settings.migration": "true"
@@ -64,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657917891713</updated>
-      <workItem from="1657917895250" duration="3272000" />
+      <workItem from="1657917895250" duration="9571000" />
     </task>
     <servers />
   </component>
